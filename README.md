@@ -1,5 +1,5 @@
 # python_course_project
-simple python project
+## simple python project
 Questo progetto consiste nella realizzazione di una classe Python chiamata `Studente` che permette di memorizzare informazioni personali e gestire i voti degli esami.
 
 La classe `Studente` include:

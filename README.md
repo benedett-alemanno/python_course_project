@@ -12,7 +12,7 @@ La classe `Studente` include:
   - lista dei voti
 
 - **Metodi:**
-  - `presentati()` → restituisce una descrizione dello studente
+  - `presentati()` → una descrizione dello studente
   - `aggiungi_voto(voto)` → aggiunge un voto (18–30)
   - `calcola_media()` → calcola la media dei voti
   - `studia_ore(ore)` → simula le ore di studio
